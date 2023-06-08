@@ -1,30 +1,30 @@
 [
     {
-        "Name": "SplatoonXX",
+        "Name": "Splatoon",
         "AssemblyVersion": "0.0.0.0"
     },
     {
-        "Name": "XIVAutoAttackXXX",
+        "Name": "XIVAutoAttack",
         "AssemblyVersion": "0.0.0.0"
     },
     {
-        "Name": "AutoAction_CNXX",
+        "Name": "AutoAction_CN",
         "AssemblyVersion": "0.0.0.0"
     },
     {
-        "Name": "PvPSelectorXX",
+        "Name": "PvPSelector",
         "AssemblyVersion": "0.0.0.0"
     },
     {
-        "Name": "SaucyXX",
+        "Name": "Saucy",
         "AssemblyVersion": "0.0.0.0"
     },
     {
-        "Name": "XIVSlothComboXX",
+        "Name": "XIVSlothCombo",
         "AssemblyVersion": "0.0.0.0"
     },
     {
-        "Name": "NKPluginXX",
+        "Name": "NKPlugin",
         "AssemblyVersion": "0.0.0.0",
         "Reason": "K佬说不可以,K."
     }
